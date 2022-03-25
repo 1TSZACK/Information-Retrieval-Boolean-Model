@@ -7,4 +7,5 @@ retrieving different query from a collection. In this two types of indexes has b
 for a set of collection to facilitate Boolean Model of IR.
 
 stopwords.txt   Contains all stopwords that need to be removed from the collection of documents that need to be retireved.
+
 simg-removebg-preview.png    Is background image for GUI
